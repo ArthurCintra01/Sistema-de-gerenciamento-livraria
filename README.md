@@ -1,4 +1,4 @@
-# Prog-3 Trabalho Final
+# Sistema de gerenciamento de livraria
 
 O seguinte projeto apresenta uma simulação de um sistema de gerenciamento de uma livraria com menus de acesso diferentes dependendo da permissao da conta que estiver logada(funcionario,cliente...).
 
