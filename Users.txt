@@ -1,0 +1,12 @@
+arthur,cintra,estudante,1234,865.09
+chaves,roberto,funcionario,3214,0
+peter,check,cliente,2412,200
+xavier,rapido,cliente,3213,222
+vitor,probst,estudante,2222,15
+kobe,bryant,funcionario,2345,0
+lucas,vieira,estudante,2314,180
+stephen,curry,estudante,8990,90
+cleide,silva,estudante,1111,900
+glauce,aparecida,estudante,9999,10000
+carlos,cintra,cliente,7777,4960
+rodrigo,pedroso,cliente,5555,780

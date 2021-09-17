@@ -1,0 +1,11 @@
+guia_do_mochileiro_das_galaxias,douglas_adams,40,9
+o_nome_do_vento,patrick_rothfuss,29.9,7
+jogador_numero_um,ernest_cline,50,7
+portas_de_pedra,patrick_rothfuss,49.9,29
+o_temor_do_sabio,patrick_rothfuss,39.9,60
+livro6,vitor,15,24
+livro7,vinicius,52,35
+livro8,agos,88,13
+livro9,leandro,35,1
+o_aprendiz_de_assassino,robin_hobb,39.9,22
+livro44,lucas,89,10
